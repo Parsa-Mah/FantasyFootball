@@ -1,7 +1,8 @@
-package com.parsamah.fantasyfootball
+package com.parsamah.fantasyfootball.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.parsamah.fantasyfootball.R
 
 class MainActivity : AppCompatActivity() {
 
